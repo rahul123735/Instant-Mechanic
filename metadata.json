@@ -1,0 +1,6 @@
+{
+  "name": "Instant Mechanic Operations Dashboard",
+  "description": "Real-time vehicle service operations dashboard for monitoring live bookings, dispatching mechanics, customer analytics, and revenue metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
